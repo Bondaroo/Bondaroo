@@ -863,7 +863,7 @@ a.mobile-show {
 
 @keyframes scroll {
 	0% { transform: translateX(0); }
-	100% { transform: translateX(calc(-330px * 4))}
+	100% { transform: translateX(calc(-330px * 7))}
 }
 
 .slider {
@@ -895,7 +895,7 @@ a.mobile-show {
 	.slide-track {
 		animation: scroll 40s linear infinite;
 		display: flex;
-		width: calc(330px * 8);
+		width: calc(330px * 14);
 	}
 	
 	.slide {
