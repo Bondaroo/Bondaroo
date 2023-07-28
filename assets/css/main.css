@@ -905,8 +905,7 @@ a.mobile-show {
 	}
   
   .slide .img{
-    height: 100;
-    width: 250;
+    object-fit: contain;
   }
 }
 
